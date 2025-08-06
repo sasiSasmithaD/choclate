@@ -1,0 +1,316 @@
+        .header{
+        background-image: url(download.jpg);
+        min-width: 300px;
+        min-height: 600px;
+        background-repeat: no-repeat;
+        background-size:cover;
+        }
+        .s{
+        color: white;
+        font-size: 30px;
+        display: inline-flex; 
+        justify-content: center; 
+        padding-left: 50px;
+        margin-top: 30px;
+        }
+        a{
+        color: aliceblue;
+        padding: 10px;
+        text-transform:uppercase;
+        font-size: 15px;
+        padding-bottom: 50px;
+        }
+        .iserach{
+        color: aliceblue;
+        padding-left: 1300px;
+        font-size: 20px;
+        }
+        .ilogin{
+        color: aliceblue;
+        padding-left: 20px;
+        font-size: 20px;
+
+        }
+        .ilogin1{
+        color: aliceblue;
+        padding-left: 30px;
+        font-size: 20px;
+             }
+
+        .antag{
+        padding-left: 10px;
+        }
+        nav{
+        display: inline;
+        padding-left: 60px;
+        word-spacing: 5px;
+        /* font-size: 18px; */
+        }
+        .w:hover{
+        background-color: black;
+
+        }
+        h1{
+        color: rgb(243, 156, 41);
+            
+        }
+        #div1{
+        margin-top: 20px;
+        padding-left: 36%;
+            
+        }
+        .back{
+            margin-top: 100px;
+            background-image:url('download (3).jpg') ;
+            padding-top: 180px;
+            width: 1483px;
+            height: 400px;
+            background-size: cover;
+        }
+         /* .c1:hover{
+            transform: scale(0.5);
+            cursor: pointer;
+         } */
+       .c1 {
+      display: flex;
+      position:relative;
+      flex-wrap:row wrap;
+      gap:50px;
+      padding-left: 200px;
+      }
+      .gifting{
+        position: absolute;
+        padding-left: 40px;
+        padding-top: 200px;
+        color:aliceblue;
+        font-size: 45px;
+        font-weight:bolder ;
+      }
+      .table{
+        position: absolute;
+        padding-left: 45px;
+        padding-top: 46px;
+        color:aliceblue;
+        font-size: 45px;
+        font-weight:bolder ;
+        
+      }
+      .table1{
+        position: absolute;
+        padding-top: 48px;
+        padding-left: 20px;
+        color:aliceblue;
+        font-size: 43px;
+        font-weight:bolder ;
+        
+      }
+      .indulgence{
+         position: absolute;
+        padding-left: 40px;
+         padding-top: 48px;
+        color:aliceblue;
+        font-size: 40px;
+        font-weight:bolder ;
+
+      }
+      
+
+        .c2{
+            display: flex;
+            flex-direction: row;
+            gap: 50px;
+            padding-left: 200px;
+        }
+
+
+        .d{
+            background-color:antiquewhite ;
+            margin-left: 700px;
+            overflow: visible;
+            width: 370px;
+            height: 330px;
+            padding: 5px 10px 10px 15px;
+        }
+        .s4{
+            font-size: 30px;
+            margin-top: 100px;
+            padding-left: 43%;
+        }
+        .c3{
+             padding-left: 40%;
+             word-spacing: 10px;
+        }
+         .h1{
+            padding:20px 0px 40px 80px;
+        }
+        .i1{
+          
+            width: 300px;
+            height: 300px;
+            padding: 10px 10px 10px 130px;
+        }
+    
+        .i2{
+        
+            
+            width: 300px;
+            height: 300px;
+            padding: 10px;
+            
+        }
+        .i3{
+        
+            width: 300px;
+            height: 300px;
+             padding: 10px;
+          
+        }
+    
+        
+        .i1:hover{
+            opacity: 0.5;
+            cursor: pointer;
+        }
+        .i2:hover{
+             opacity: 0.5;
+            cursor: pointer;
+           
+        }
+        .i3:hover{
+            opacity: 0.5;
+            cursor: pointer;
+
+        }
+       
+        .b{
+            background-color: black;
+            height: 550px;
+            width: 1450px;
+            padding-top: 20px ;
+            padding-left: 30px;
+            
+        }
+        .n{
+            padding-left: 55px;
+            font-weight: bolder;
+            font-size: 24px;
+        }
+         .sec3{
+            display: flex;
+            padding-left: 35px;
+        }
+        .x{
+            background-color: aliceblue;
+            padding-left: 30px;
+            width: 720px;
+            height: 300px;
+            margin-top: 30px;
+        }
+        .vid{
+           display: flex;
+           justify-content: center;
+           /* padding-top: 30px; */
+           padding-left: 50px;
+        }
+        .m{
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        /* .n{
+            margin: 20px;
+        } */
+        .s1{
+            display: flex;
+            padding-left:350px;
+            width: 100px;
+            height: 100px;
+            gap:60px;
+           
+        }
+
+        .h3{
+            margin-top: 30px;
+            display: flex;
+            justify-content: center;
+             padding-right: 100px;
+        
+        }
+        .p1{
+            width: 600px;
+            height: 400px;
+            padding-top: 10px;
+            padding-left: 400px;
+            word-spacing: 20px;
+            line-height: 50px;
+            font-weight: bolder;
+            font-size: 40px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        }
+        .v1{
+            margin-top: 270px;
+            background-image:url('Rectangle_4.webp') ;
+            background-size: cover;
+            padding-top: 150px;
+            padding-bottom: 100px;
+        }
+        .v2{
+            background-color:antiquewhite;
+            font-size: 20px;
+            width: 400px;
+            height: 300px;
+            margin-left: 150px;
+            padding: 20px;
+            
+        }
+        .footer{
+            background-color: black;
+            background-size: cover;
+            justify-content:space-between;
+            min-height: 1000px;
+           
+
+        }
+        .sline{
+            display: flex;
+            justify-content: space-between;
+
+        }
+         .fimg{
+            flex: 1;
+            display: flex;
+            padding-top: 60px;
+            padding-left: 20px;
+            
+        }
+        .f1h2{
+        
+            display:flex ;
+            justify-content: baseline;
+            flex-direction: column;
+            color: antiquewhite;
+            line-height: 30px; 
+        }
+        .f2h2{
+            display:flex ;
+            justify-content: first baseline;
+            flex-direction: column;
+            padding-left: 30px;
+            color: antiquewhite;
+            line-height: 30px; 
+        }
+        .f3h2{
+            display:flex ;
+            justify-content: baseline;
+            flex-direction: column;
+            padding-right: 300px;
+            padding-left: 30px;
+            color: antiquewhite;
+            line-height: 30px; 
+
+        }
+       
+        /* .footclass{
+            padding-right: 400px;
+        } */
+      
